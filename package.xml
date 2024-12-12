@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>No Random Quest Limit</title>
+  <id>omegaplatinum.elin.norandomquestlimit</id>
+  <author>OmegaPlatinum</author>
+  <loadPriority>100</loadPriority>
+  <description>
+    Supports Game Version: 0.23.54
+
+    Removes the limit on the number of random quests that can be accepted from the quest board.
+    [list]
+    [*]Allows players to accept unlimited random quests from the quest board without restrictions.
+    [*]Compatible with existing save files.
+    [/list]
+
+    [h1] Features [/h1]
+    [list]
+    [*]Overrides the game's random quest limit from the quest board, enabling players to take on as many random quests as they want.
+    [/list]
+
+    [h1] Compatibility [/h1]
+    This mod works with existing save files and does not require any manual setup. Simply subscribe to the mod to remove the random quest cap.
+
+    クエストボードから受注できるランダムクエストの制限を解除します。
+    [list]
+    [*]クエストボードからランダムクエストを無制限に受注できるようになります。
+    [*]既存のセーブデータと互換性があります。
+    [/list]
+
+    [h1] 特徴 [/h1]
+    [list]
+    [*]ゲームのクエストボードからのランダムクエスト制限を上書きし、プレイヤーが望むだけのクエストを受注できるようにします。
+    [/list]
+
+    [h1] 互換性 [/h1]
+    このMODは既存のセーブデータで動作し、特別な設定は不要です。MODをサブスクライブするだけでランダムクエストの制限が解除されます。
+  </description>
+  <tags>QoL</tags>
+  <version>0.23.54</version>
+</Meta>
