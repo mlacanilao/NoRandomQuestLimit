@@ -5,9 +5,8 @@
   <author>OmegaPlatinum</author>
   <loadPriority>100</loadPriority>
   <description>
-    Supports Game Version: 0.23.54
-
     Removes the limit on the number of random quests that can be accepted from the quest board.
+    クエストボードから受注できるランダムクエストの制限を解除します。
     [list]
     [*]Allows players to accept unlimited random quests from the quest board without restrictions.
     [*]Compatible with existing save files.
@@ -19,9 +18,10 @@
     [/list]
 
     [h1] Compatibility [/h1]
-    This mod works with existing save files and does not require any manual setup. Simply subscribe to the mod to remove the random quest cap.
+    This mod works with existing save files and does not require any manual setup.
 
-    クエストボードから受注できるランダムクエストの制限を解除します。
+    Supports Game Version: 0.23.55
+    
     [list]
     [*]クエストボードからランダムクエストを無制限に受注できるようになります。
     [*]既存のセーブデータと互換性があります。
@@ -34,7 +34,9 @@
 
     [h1] 互換性 [/h1]
     このMODは既存のセーブデータで動作し、特別な設定は不要です。MODをサブスクライブするだけでランダムクエストの制限が解除されます。
+
+    対応ゲームバージョン: 0.23.55
   </description>
   <tags>QoL</tags>
-  <version>0.23.54</version>
+  <version>0.23.55</version>
 </Meta>
